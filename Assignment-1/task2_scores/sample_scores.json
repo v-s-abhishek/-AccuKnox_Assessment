@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Aarav", "subject": "Mathematics", "score": 78},
+  {"id": 2, "name": "Diya", "subject": "Mathematics", "score": 92},
+  {"id": 3, "name": "Kabir", "subject": "Mathematics", "score": 65},
+  {"id": 4, "name": "Meera", "subject": "Mathematics", "score": 88},
+  {"id": 5, "name": "Rohan", "subject": "Mathematics", "score": null},
+  {"id": 6, "name": "Sneha", "subject": "Mathematics", "score": 71},
+  {"id": 7, "name": "Arjun", "subject": "Mathematics", "score": 54},
+  {"id": 8, "name": "Isha", "subject": "Mathematics", "score": "absent"},
+  {"id": 9, "name": "Vikram", "subject": "Mathematics", "score": 83},
+  {"id": 10, "name": "Ananya", "subject": "Mathematics", "score": 96}
+]
